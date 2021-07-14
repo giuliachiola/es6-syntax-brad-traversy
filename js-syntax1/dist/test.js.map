@@ -1,0 +1,1 @@
+{"version":3,"sources":["../server/test.js"],"names":["test","mgs","console","log"],"mappings":";;;;;AAAA,IAAMA,OAAO,SAAPA,IAAO,CAACC,GAAD,EAAS;AACrBC,SAAQC,GAAR,CAAY,YAAZ;AACA,CAFD;;kBAIeH,I","file":"test.js","sourcesContent":["const test = (mgs) => {\n\tconsole.log(\"i'm a test\")\n}\n\nexport default test;"]}
